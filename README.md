@@ -4,5 +4,7 @@ This repo includes papers and other resources to understand study design in clin
 ### Introduction to study designs
 * [An overview of clinical research: the lay of the land](https://doi.org/10.1016/S0140-6736(02)07283-5): This papers provides a general overview of study designs in clinical research and also common statistical measures for common outcomes. This is the first of the series of papers about study designs writen by Grimes et al.
 
-## Study designs in observational studies
-### Descriptive studies
+* For a good understanding of study designs, to know the classification of variables in research is key, as well as what operationalization means. [This](https://journals.sagepub.com/doi/10.1177/0253717621994334?icid=int.sj-full-text.similar-articles.1) and [this paper](https://journals.sagepub.com/doi/10.1177/0253717621996151?icid=int.sj-full-text.similar-articles.1) describe these topics with practical examples. 
+
+### Study designs in observational studies
+#### Descriptive studies
