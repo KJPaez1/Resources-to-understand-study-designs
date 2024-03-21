@@ -15,13 +15,16 @@ After the researcher has found a interesting question that is goint to try to an
 #### Case-control study
 * [Case-control studies: research in reverse](10.1016/S0140-6736(02)07605-5)
 
-
+#### Cohort study
+* [Cohort studies: marching towards outcomes](10.1016/S0140-6736(02)07500-1): One of the take-home message of this article is that to differentiate Cohort study from case-control, we have to identify when data were collected. Regarding the control group, both case-control design and cohort design have a comparison group (the control in both), but in the first one (case-control), groups are defined by the outcome, while in a cohort study, groups are defined by the exposure.  
 
 ### Learning with examples
 To reinforse the knowledge gained with explanation articles, the next step before choose the study design that fits better your research question is to look at articles published with good explanation on their methods. Take a look on them and compare how researcher collect their data () and what statistical measures are reported.
 
 #### Cancer
-Does 
+Does Human papillomavirus (HPV) is associated to orofaringeal cancer?
+* [This article](10.1056/NEJMoa065497) has a **case-control design**, and here the authors compares 100 patients with newly diagnosed oropharyngeal cancer (the control group) with 200 patients without oropharyngeal cancer (the case group) to evaluate whther HPV infection is assocaited to oropharyngeal cancer.
+
 #### Mental health
 
 #### COVID-19
