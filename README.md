@@ -21,7 +21,7 @@ After the researcher has found a interesting question that is goint to try to an
 To reinforse the knowledge gained with explanation articles, the next step before choose the study design that fits better your research question is to look at articles published with good explanation on their methods. Take a look on them and compare how researcher collect their data () and what statistical measures are reported.
 
 #### Cancer
-
+Does 
 #### Mental health
 
 #### COVID-19
