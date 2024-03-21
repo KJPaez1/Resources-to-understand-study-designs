@@ -11,3 +11,11 @@ After the researcher has found a interesting question that is goint to try to an
 
 #### Descriptive studies
 * [Descriptive studies: what they can and cannot do](10.1016/S0140-6736(02)07373-7): In addition to provide a good understanding about descriptive study, this article underscore the importance to recognize the questions that the investigator have to answer when conducting a descriptive study (the five basic "W") --Who, why, when, where, so what--. 
+
+#### Case-control study
+* [Case-control studies: research in reverse](10.1016/S0140-6736(02)07605-5)
+
+
+
+### Learning with examples
+To reinforse the knowledge gained with explanation articles, the next step before choose the study design that fits better your research question is to look at articles published with good explanation on their methods. Take a look on them and compare how researcher collect their data () and what statistical measures are reported.
