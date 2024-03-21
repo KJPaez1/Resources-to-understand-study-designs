@@ -1,5 +1,5 @@
-# Resources to understand study designs in observational studies
-This repo includes papers and other resources to understand study design in clinical research. As a matter of fact, all papers of David A. Grimes and his co-authors are included, since these papers are the "must read" for medical students and researchers.
+# Study designs in observational studies
+Looking for papers to read and understand study designs can be overwelming since the tons of literature published. But even more important, figure out what prior concepts you woul need tp do an in deep exploration of study designs could be painful. This is my attemp to list articles (and try to save you time) that I consider go to the point and show practical examples to endorse the concepts regarding this topic.    
 
 ### Introduction to study designs: getting familiar with _variables_
 After the researcher has found a interesting question that is goint to try to answer, the next big step is to know what varaibles to measure and how to measure them. The last one, is also called operacionalization. Therefore, getting familiar with variables, their classification, and their propiarities is fundamental for a good understanding of study designs.
