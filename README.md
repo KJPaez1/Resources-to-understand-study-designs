@@ -1,12 +1,15 @@
 # Study designs in observational studies
-Searching literature to read and understand study designs can be overwelming since the tons of published papers. Even worse, figure out what prior concepts would be needed to do an in deep exploration of study designs can be dificult. This is my attemp to list (and give an order of) articles that I consider go to the point and show practical examples to endorse the concepts effectivelty.     
+Searching through the literature to read and understand study designs can be overwhelming due to the vast number of published papers. Even worse, figuring out which prior concepts are needed to conduct an in-depth exploration of the topic can be difficult. This is my attempt to list (and provide an order for) articles that I consider to be straight to the point and to offer practical examples to effectively reinforce the concepts
 
 ## Introduction to study designs: getting familiar with _variables_
-After the investigator has formulated a research question, the next big step is to know what variables to measure and how to measure them. The last one, is also called operationalization and requires a good understanding of the nature of variables. Thus, getting familiar with variables, their classification, and their properaitities is fundamental before set a designs to our study.
-[This](https://doi.org/10.1177/0253717621994334) (part 1) and [This](https://doi.org/10.1177/0253717621996151) article (part 2) provide the fundamentals of variables, they also includes several practical examples and an introduccion to confounding variables, which could be explored in deep [here](10.1093/oxfordjournals.aje.a009758)   
+After the investigator has formulated a research question, the next significant step is to determine which variables to measure and how to measure them. The latter is also called operationalization and requires a good understanding of the nature of variables. Thus, becoming familiar with variables, their classification, and their properties is fundamental before setting the design for our study.
+[This](https://doi.org/10.1177/0253717621994334) (part 1) and [This](https://doi.org/10.1177/0253717621996151) article (part 2) provide the fundamentals of variables. They also include several practical examples and an introduction to confounding variables, which could be explored in depth [here](10.1093/oxfordjournals.aje.a009758)   
 
 ## Study designs
 #### An outlook on study designs
+Figure bellow (from Grimes&Schulz) shows the classification of Observational study
+
+![Alt image]()
 * [An overview of clinical research: the lay of the land](https://doi.org/10.1016/S0140-6736(02)07283-5): This one is the first of the series of articles writen by Grimes & Schulz about study designs. This provides a general overview, and highliting the strengths and limitations of each type. 
 
 ### Descriptive studies
