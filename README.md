@@ -7,9 +7,10 @@ After the investigator has formulated a research question, the next significant 
 
 ## Study designs
 #### An outlook on study designs
-Figure bellow (from Grimes&Schulz) shows the classification of Observational study
+The coloread part of the figure bellow (extracted from Grimes&Schulz's article) shows the classification of Observational studies
 
-![Alt image]()
+<img src="https://github.com/KJPaez1/Resources-to-understand-study-designs/blob/main/img/Study_design.jpeg" alt="Alt image" width="617" height="757">
+
 * [An overview of clinical research: the lay of the land](https://doi.org/10.1016/S0140-6736(02)07283-5): This one is the first of the series of articles writen by Grimes & Schulz about study designs. This provides a general overview, and highliting the strengths and limitations of each type. 
 
 ### Descriptive studies
